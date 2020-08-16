@@ -104,3 +104,30 @@ h1 u {
     font-size: 0.8em;
     font-weight: lighter;
 }
+
+section#footer {
+    color: white;
+    background: rgb(37, 37, 37);
+    background: linear-gradient(
+      102deg,
+      rgba(37, 37, 37, 1) 12%,
+      rgba(128, 128, 128, 1) 85%
+    );
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 4em;
+}
+  
+h1.footer {
+    font-size: 3.8;
+    font-weight: bold;
+}
+  
+h4 {
+    line-height: 2.5;
+    font-size: 1.2em;
+    font-style: italic;
+    text-align: center;
+}
