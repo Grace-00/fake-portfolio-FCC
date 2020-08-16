@@ -48,3 +48,16 @@ a:link {
     background-color: red;
     transition: background-color 0.4s ease-out;
 }
+
+section#welcome-section {
+    background: rgb(246, 211, 211);
+    background: linear-gradient(
+      324deg,
+      rgba(246, 211, 211, 1) 37%,
+      rgba(254, 183, 254, 1) 90%
+    );
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
