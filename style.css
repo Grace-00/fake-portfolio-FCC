@@ -216,7 +216,9 @@ footer > p {
 
 @media (max-width: 800px) {
     .profile-link {
+      padding-top: 30px;
       text-align: center;
+      margin-bottom: 50px;
     }
   
     .project-grid {
