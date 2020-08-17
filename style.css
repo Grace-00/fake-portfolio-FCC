@@ -255,5 +255,28 @@ footer > p {
     section#footer {
         padding-top: 20px;
        
-    }    
+    }
+    
+    .footer-sub {
+        margin-top: 30px;
+        padding-bottom: 0px;
+        
+    }
+
+    h4 {
+        font-size: 1em;
+    }
+
+    a.contact-details {
+        font-size: 1.2em;
+    }
+
+    footer {
+        padding-top: 0;
+        display: block;
+    }
+
+    footer > p {
+        font-size: 12px;
+    }
 }
