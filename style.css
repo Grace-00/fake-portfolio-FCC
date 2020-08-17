@@ -240,4 +240,20 @@ footer > p {
     a:link{
         padding: 5px 10px;
     }
+
+    section#welcome-section {
+        height: 100vh;
+    }
+    h1 {
+        font-size: 2em;
+    }
+
+    h1.projects {
+        padding: 1em;
+    }
+
+    section#footer {
+        padding-top: 20px;
+       
+    }    
 }
