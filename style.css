@@ -232,4 +232,12 @@ footer > p {
       font-size: 1em;
       padding: 10px 20px;
     }
+
+    ul li a{
+        display: inline-block; 
+    }
+
+    a:link{
+        padding: 5px 10px;
+    }
 }
